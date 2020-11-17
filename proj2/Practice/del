@@ -1,0 +1,2 @@
+ipcrm -Q 0x32143153
+ipcs
